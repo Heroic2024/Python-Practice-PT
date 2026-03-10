@@ -1,0 +1,25 @@
+File Handling
+
+1. File type and Modes
+
+File types
+1. text files: store data as characters (human-readable)
+eg: .txt,.csv,.py
+
+
+File modes in python
+
+Mode    Meaning
+r       Read (default mode)
+w       Write (overwrites file)
+a       Append (adds data at end)
+x       Create new file (error if exists)
+rb      Read binary
+wb      Write binary
+ab      append binary
+r+      Read and Write
+w+      Write and read (overwrite)
+a+      Append and read
+
+
+
